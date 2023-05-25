@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/happycv/static/css/main.073c9b0a.css",
-    "main.js": "/happycv/static/js/main.a24b33b1.js",
-    "static/js/787.3c93d4a1.chunk.js": "/happycv/static/js/787.3c93d4a1.chunk.js",
-    "static/media/logo.svg": "/happycv/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/happycv/static/css/main.599d62e2.css",
+    "main.js": "/happycv/static/js/main.742178e9.js",
     "index.html": "/happycv/index.html",
-    "main.073c9b0a.css.map": "/happycv/static/css/main.073c9b0a.css.map",
-    "main.a24b33b1.js.map": "/happycv/static/js/main.a24b33b1.js.map",
-    "787.3c93d4a1.chunk.js.map": "/happycv/static/js/787.3c93d4a1.chunk.js.map"
+    "main.599d62e2.css.map": "/happycv/static/css/main.599d62e2.css.map",
+    "main.742178e9.js.map": "/happycv/static/js/main.742178e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a24b33b1.js"
+    "static/css/main.599d62e2.css",
+    "static/js/main.742178e9.js"
   ]
 }
